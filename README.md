@@ -78,7 +78,6 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 ---
 
 ## Author
-[Amod Kumar J](https://github.com/username)
-
+yateen sharma
 # All right
 
